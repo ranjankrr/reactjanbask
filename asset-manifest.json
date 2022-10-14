@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjanbask/static/css/main.dc4b76d4.css",
+    "main.js": "/reactjanbask/static/js/main.de0c0522.js",
+    "index.html": "/reactjanbask/index.html",
+    "main.dc4b76d4.css.map": "/reactjanbask/static/css/main.dc4b76d4.css.map",
+    "main.de0c0522.js.map": "/reactjanbask/static/js/main.de0c0522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4b76d4.css",
+    "static/js/main.de0c0522.js"
+  ]
+}
